@@ -1,0 +1,21 @@
+Validações da conta:
+
+Cadastro:
+
+E-mail na forma inválida (Insira um e-mail válido)
+E-mail já está sendo utilizado (Este e-mail já esta em uso)
+Senha fraca (Insira uma senha mais forte)
+
+
+Login:
+
+E-mail na forma inválida (Insira um e-mail válido)
+E-mail não cadastrado (Nenhuma conta encontraa com esete e-mail)
+E-mail inválido (Senha inválida, tente novamente)
+
+
+
+Esqueceu a senha
+
+E-mail com formato inválido (Insira um e-mail válido)
+E-mail não cadastrado (Nenhuma conta encontrada com este e-mail)
